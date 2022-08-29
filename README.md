@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/STD_KING"><img src="https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg"></a></p>
+<p align="center"><a href="https://t.me/STD_KING"><img src="https://te.legra.ph/file/a3fcc6c0972eb92fdb229.jpg"></a></p>
 
 ## Telegram 🏪
 
@@ -35,4 +35,4 @@
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/STD_KING)
+[![Std King](https://te.legra.ph/file/c88fb5e5180880f50eb68.jpg)](https://t.me/STD_KING)
