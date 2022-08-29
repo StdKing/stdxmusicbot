@@ -1,4 +1,4 @@
-# Bikash Aditya // @BikashHalder
+# STD KING // @STD_KING
 import os
 import aiofiles
 import aiohttp
@@ -101,7 +101,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: Bikash & Aditya Halder (@BikashHalder @AdityaHalder)",
+        f"Powered By:  STD KING (@STD_KING)",
         (255, 255, 255),
         font=font,
     )
@@ -199,8 +199,8 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 🇧𝐆𝐓 🌺",
-                            url=f"https://t.me/Bgt_Chat")
+                            text="😎 𝐒𝐓𝐃 🌺",
+                            url=f"https://t.me/Std_Friends_Club")
                    
                 ]
             ]
@@ -252,8 +252,8 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 🇧𝐆𝐓 🇨𝐇𝐀𝐍𝐍𝐄𝐋 🌺",
-                            url=f"https://t.me/BikashGedgetsTech")
+                            text="😎 🇸𝐓𝐃 🇨𝐇𝐀𝐍𝐍𝐄𝐋 🌺",
+                            url=f"https://t.me/DevilsServerMF")
                    
                 ]
             ]
@@ -282,7 +282,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
+                            text="🧑🏻‍💻 𝐒𝐭𝐝 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 📡",
                             url=f"https://t.me/Team_Std_Network")
                    
                 ]
