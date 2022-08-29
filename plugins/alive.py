@@ -43,8 +43,8 @@ async def start_(client: Client, message: Message):
 ┣❥︎ 𝐁𝐨𝐭-𝐒𝐨𝐮𝐫𝐜𝐞 » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({SOURCE_CODE})
 ┣❥︎ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({UPDATES_CHANNEL})
 ┣❥︎ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({SUPPORT_GROUP})
-┣❥︎ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ➪ » [𝐊𝐚𝐚𝐥](https://t.me/Adityahalder)
-┣❥︎ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫2 ➪ » [𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+┣❥︎ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ➪ » [𝐊𝐢𝐧𝐠](https://t.me/STD_KING)
+┣❥︎ 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 ➪ » [𝐓𝐞𝐚𝐦 𝐒𝐓𝐃](https://t.me/Team_STD_Network)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
 𝐄𝐧𝐣𝐨𝐲 𝐒𝐮𝐩𝐞𝐫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ❥︎𝐌𝐮𝐬𝐢𝐜.
