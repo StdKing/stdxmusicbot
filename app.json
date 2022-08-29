@@ -1,9 +1,9 @@
 {
-    "name": "🇧𝐠𝐭𝐗🇲𝐮𝐬𝐢𝐜🇧𝐨𝐭",
+    "name": "🇸𝐭𝐝𝐗🇲𝐮𝐬𝐢𝐜🇧𝐨𝐭",
     "logo": "https://te.legra.ph/file/b4ae1d1d22abd2b24d9de.jpg",
     "description": "🥀 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐚𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩 𝐕𝐂 ✨",
-    "keywords": ["bgtxmusicbot", "voice chat", "telegram"],
-    "repository": "https://github.com/IambikashHalder/bgtxmusicbot",
+    "keywords": ["stdxmusicbot", "voice chat", "telegram"],
+    "repository": "https://github.com/StdKing/stdxmusicbot",
     "stack": "container",
     "env": {
         "API_HASH": {
@@ -17,7 +17,7 @@
         "ASSISTANT_NAME": {
             "description": "𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑵𝒂𝒎𝒆",
             "required": true,
-            "value": "🇧𝐆𝐓 🇵𝐋𝐀𝐘𝐄𝐑"
+            "value": "🇸𝐓𝐃 🇵𝐋𝐀𝐘𝐄𝐑"
         },
         "ASSISTANT_USERNAME": {
             "description": "𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 (𝑾𝒊𝒕𝒉𝒐𝒖𝒕 '@')",
@@ -32,7 +32,7 @@
         "BOT_NAME": {
             "description": "𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆",
             "required": true,
-            "value": "🇧𝐆𝐓 🇲𝐔𝐒𝐈𝐂"
+            "value": "🇸𝐓𝐃 🇲𝐔𝐒𝐈𝐂"
         },
         "BOT_TOKEN": {
             "description": "𝑮𝒆𝒕 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑭𝒓𝒐𝒎 𝑩𝒐𝒕𝑭𝒂𝒕𝒉𝒆𝒓",
@@ -56,7 +56,7 @@
         "OWNER_NAME": {
             "description": "𝑵𝒂𝒎𝒆 𝑶𝒇 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true,
-            "value": "🇧𝐈𝐊𝐀𝐒𝐇 🇭𝐀𝐋𝐃𝐄𝐑"
+            "value": "𝐒𝐓𝐃 𝐊𝐈𝐍𝐆"
         },
         "OWNER_USERNAME": {
             "description": "𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 𝑶𝒇 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
@@ -66,7 +66,7 @@
         "SOURCE_CODE": {
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑳𝒊𝒏𝒌 𝑭𝒐𝒓 𝑭𝒖𝒕𝒖𝒓𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔",
             "required": true,
-            "value": "https://t.me/"
+            "value": "https://github.com/StdKing/stdxmusicbot"
         },
         "STRING_SESSION": {
             "description": "𝒀𝒐𝒖𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏 (𝑮𝒆𝒕 𝒊𝒕 𝑭𝒓𝒐𝒎 𝑹𝒆𝒑𝒍𝒊𝒕)",
